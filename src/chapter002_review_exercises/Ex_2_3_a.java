@@ -8,10 +8,10 @@ public class Ex_2_3_a {
 			q76354,
 			number; */
 		
-		int c;
+		/* int c;
 		int thisIsAVarable;
 		int q76354;
-		int number;
+		int number; */
 	}
 
 }
